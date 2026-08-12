@@ -6,7 +6,9 @@ How has revenue and average order revenue evolved month-over-month and year-over
 Which marketing acquisition channels (UTM sources) deliver the highest volume and conversion rates?
 Do repeat web session visitors convert at a higher rate compared to new visitors?
 What is the total refund percentage across orders, and which products generate the highest refund liabilities?
-SQL Skills Used
+
+SQL Skills Used:
+
 Aggregations & Grouping: SUM(), AVG(), COUNT(), COUNT(DISTINCT), GROUP BY, HAVING
 
 
