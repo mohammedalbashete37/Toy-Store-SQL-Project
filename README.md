@@ -36,28 +36,34 @@ Total Revenue: $1,419,767.87
 
 
 Net Profit: $879,952.06 (Avg Selling Price: $59.50, Cost: $22.62)
+
 Secondary Products:
 The Forever Love Bear: $318,109.19 total revenue ($200,348.01 profit).
 The Birthday Sugar Panda: $180,857.04 total revenue ($122,410.51 profit).
 The Hudson River Mini Bear: $19,775.72 total revenue ($13,429.00 profit).
+
 3. Revenue Classification Category:
 High Revenue (> $500k): The Original Mr. Fuzzy
 Medium Revenue ($100k - $500k): The Forever Love Bear, The Birthday Sugar Panda
 Low Revenue (< $100k): The Hudson River Mini Bear
-4. Marketing Channel Breakdown & Traffic Source Conversion:
+
+5. Marketing Channel Breakdown & Traffic Source Conversion:
 Traffic Distribution: gsearch leads paid volume with 316,035 sessions (6% conversion rate). bsearch generated 62,823 sessions (7% conversion rate). Unknown channels accounted for 83,328 sessions.
 Social Channels: socialbook drove 10,685 sessions but yielded the lowest conversion rate at 3%.
-5. Session Type Behavior (New vs. Repeat):
+
+7. Session Type Behavior (New vs. Repeat):
 New Visitors (is_repeat_session = 0): 6.64% conversion rate.
 Repeat Visitors (is_repeat_session = 1): 7.83% conversion rate.
 Repeat Visitor Traffic: Unknown sources account for 62% of repeat traffic.
-6. Product Refund Analysis:
+
+9. Product Refund Analysis:
 Overall Refund Rate: 5% of all unique orders incurred a refund.
 Refund Values:
 The Original Mr. Fuzzy: Highest absolute dollar refund ($61,837.63) due to sales volume.
 The Birthday Sugar Panda: $13,842.99 refunded.
 The Forever Love Bear: $7,738.71 refunded.
 The Hudson River Mini Bear: $1,919.36 refunded.
+
 Key Insights:
 Product Concentration Risk: "The Original Mr. Fuzzy" accounts for over 70% of total profit. Expanding marketing focus on mid-tier products like "The Forever Love Bear" can diversify revenue risks.
 Repeat Visitor Value: Repeat visitors convert at a higher rate (7.83% vs 6.64%). Retaining users and bringing them back generates higher organic value.
